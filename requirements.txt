@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+torch
+graphviz
+scikit-learn
+xgboost
+shap
+matplotlib
+lime
+deep-translator==1.11.4
